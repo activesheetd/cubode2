@@ -106,14 +106,15 @@ header#teaser h1 {
 /* Links
 ================================================== */
 a {
-  color: #F40034;
+  color: #006398;
   text-decoration: none;
   -webkit-transition: color .2s ease-in-out;
      -moz-transition: color .2s ease-in-out;
           transition: color .2s ease-in-out;
 }
 a:hover {
-  color: #F40034;
+  color: #00bfb1;
+
 }
 
 /*  Layout
@@ -292,7 +293,7 @@ div.cover > img {
   line-height: 1.5;
 }
 .art-body-inner a:hover {
-  border-bottom: 1px solid #F40034;
+  border-bottom: 1px solid #10cca1;
   padding-bottom:2px;
 }
 .art-body-inner ul,
@@ -414,10 +415,10 @@ div.cover > img {
   color: #999;
 }
 .art-list-title a {
-  color: #000;
+  color: #002a4e;
 }
 .art-list-title a:hover {
-  color: #F40034;
+  color: #00a89b;
 }
 .art-list-item p {
   width: 65%;
